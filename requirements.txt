@@ -1,0 +1,6 @@
+gspread
+pandas
+matplotlib
+seaborn
+google-auth
+google-auth-oauthlib
