@@ -133,7 +133,7 @@ def plot_dashboard(df, working_date_cols):
                 cell.set_width(0.25)
                 cell.set_text_props(ha='center', fontsize=12)
 
-    TOP_N = 30
+    TOP_N = 50
     ax_t1 = fig.add_subplot(gs[2, 0])
     ax_t2 = fig.add_subplot(gs[2, 1])
     ax_t3 = fig.add_subplot(gs[2, 2])
