@@ -18,7 +18,7 @@ sns.set_theme(style="whitegrid")
 # CONFIG
 # ================================
 SHEET_ID            = os.environ["SHEET_ID"]
-WORKSHEET_INDEX     = int(os.environ.get("WORKSHEET_INDEX", "3"))
+WORKSHEET_INDEX     = int(os.environ.get("WORKSHEET_INDEX", "5"))
 CREDENTIALS_JSON    = os.environ["GOOGLE_CREDENTIALS_JSON"]
 
 # ================================
